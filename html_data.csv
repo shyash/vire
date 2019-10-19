@@ -1,14 +1,14 @@
-HTML Headings,Headings are defined with the <h1> to <h6> tags. <h1> defines the most important heading. <h6> defines the least important heading.,1
-HTML Paragraphs,The HTML <p> element defines a paragraph.,1
-HTML Links,HTML links are hyperlinks.Hyperlinks are defined with the HTML <a> tag,1
-HTML Comments,Comment tags are used to insert comments in the HTML source code.,1
-HTML Styles - CSS,CSS describes how HTML elements are to be displayed on screen.,2
-Unordered HTML List,An unordered list starts with the <ul> tag. Each list item starts with the <li> tag.,2
-Ordered HTML List,An ordered list starts with the <ol> tag. Each list item starts with the <li> tag.,2
-HTML Block Elements,A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).,2
-HTML Inline Elements,An inline element does not start on a new line and only takes up as much width as necessary.,2
-HTML The class Attribute,The HTML class attribute is used to define equal styles for elements with the same class name.,2
-HTML The id Attribute,The id attribute specifies a unique id for an HTML element (the value must be unique within the HTML document).,2
-HTML JavaScript,JavaScript makes HTML pages more dynamic and interactive.,3
-HTML Form,The HTML <form> element defines a form that is used to collect user input:,3
-HTML5 Canvas,The HTML <canvas> element is used to draw graphics on the fly via JavaScript.,3
+HTML Headings,Headings are defined with the <h1> to <h6> tags. <h1> defines the most important heading. <h6> defines the least important heading.
+HTML Paragraphs,The HTML <p> element defines a paragraph.
+HTML Links,HTML links are hyperlinks.Hyperlinks are defined with the HTML <a> tag
+HTML Comments,Comment tags are used to insert comments in the HTML source code.
+HTML Styles - CSS,CSS describes how HTML elements are to be displayed on screen.
+Unordered HTML List,An unordered list starts with the <ul> tag. Each list item starts with the <li> tag.
+Ordered HTML List,An ordered list starts with the <ol> tag. Each list item starts with the <li> tag.
+HTML Block Elements,A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
+HTML Inline Elements,An inline element does not start on a new line and only takes up as much width as necessary.
+HTML The class Attribute,The HTML class attribute is used to define equal styles for elements with the same class name.
+HTML The id Attribute,The id attribute specifies a unique id for an HTML element (the value must be unique within the HTML document).
+HTML JavaScript,JavaScript makes HTML pages more dynamic and interactive.
+HTML Form,The HTML <form> element defines a form that is used to collect user input:
+HTML5 Canvas,The HTML <canvas> element is used to draw graphics on the fly via JavaScript.
